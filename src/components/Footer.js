@@ -20,15 +20,16 @@ const Footer = (props) => {
                             <li><a className="link-secondary" href="/">Team feature</a></li>
                         </ul> */}
                     </div>
-                    <div className="col-6 col-md">
+                    {/* <div className="col-6 col-md">
                         <h5>Resources</h5>
-                        <p>https://react.dev/learn/start-a-new-react-project</p>
-                        <p>https://getbootstrap.com/docs/5.0/getting-started/introduction/</p>
-                        {/* <ul className="list-unstyled text-small">
+                        
+                        <ul className="list-unstyled text-small">
+                        <li className="link-secondary">https://react.dev/learn/start-a-new-react-project</li>
+                        <li className="link-secondary">https://getbootstrap.com/docs/5.0/getting-started/introduction/</li>
                             <li><a className="link-secondary" href="/">Resource name</a></li>
                             <li><a className="link-secondary" href="/">Resource</a></li>
-                        </ul> */}
-                    </div>
+                        </ul>
+                    </div> */}
                     {/* <div className="col-6 col-md">
                         <h5>Resources</h5>
                         <ul className="list-unstyled text-small">
